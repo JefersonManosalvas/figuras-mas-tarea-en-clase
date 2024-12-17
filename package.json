@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "deber",
+  "version": "1.0.0",
+  "description": "deber agregando lo de la tarea en clase mas el las figuras",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonManosalvas/figuras-mas-tarea-en-clase.git"
+  },
+  "author": "JPML",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefersonManosalvas/figuras-mas-tarea-en-clase/issues"
+  },
+  "homepage": "https://github.com/JefersonManosalvas/figuras-mas-tarea-en-clase#readme"
+}
