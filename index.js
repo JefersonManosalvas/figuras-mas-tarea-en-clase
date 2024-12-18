@@ -21,7 +21,7 @@ app.get('/nombre', (req, resp) => {
 });
 
 app.get('/jeferson',(req, resp)=>{
-    resp.send('Mi nombre es Manosalvas Jeferson tengo 21 años soy estudiante del 17 de julio de la carrera de softeare');
+    resp.send('Mi nombre es Manosalvas Jeferson tengo 21 años soy estudiante del Instituto superior Tecnológico17 de julio de la carrera de Desarrollo de software');
 });
 
 app.get('/suma',(req, resp)=>{
